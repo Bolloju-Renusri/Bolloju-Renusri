@@ -1,6 +1,6 @@
- Hi there 👋 This is Renusri
-
-<h3 align="center">A passionate frontend developer from India</h3>
+ Hi there 👋 
+<h1>Bolloju Renusri</h1>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
